@@ -10,10 +10,10 @@ public class Question01_1 {
 
 		// TODO:ここに実装
 		int price = 120;
-		String itemstr = "ノート";
+		String item = "ノート";
 
 		System.out.println(price);
-		System.out.println(itemstr);
+		System.out.println(item);
 
 		price = 200;
 		itemstr = "鉛筆";
