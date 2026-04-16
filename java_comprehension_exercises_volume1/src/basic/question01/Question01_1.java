@@ -9,7 +9,17 @@ public class Question01_1 {
 	public static void main(String[] args) {
 
 		// TODO:ここに実装
+		int price = 120;
+		String itemstr = "ノート";
+
+		System.out.println(price);
+		System.out.println(itemstr);
+
+		price = 200;
+		itemstr = "鉛筆";
+
+		System.out.println(price);
+		System.out.println(itemstr);
 
 	}
-
 }
