@@ -16,10 +16,10 @@ public class Question01_1 {
 		System.out.println(item);
 
 		price = 200;
-		itemstr = "鉛筆";
+		item = "鉛筆";
 
 		System.out.println(price);
-		System.out.println(itemstr);
+		System.out.println(item);
 
 	}
 }
